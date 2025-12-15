@@ -37,33 +37,55 @@ o	Password
 ________________________________________
  Part B: Git Installation (Windows)
 Windows:
+
 1.	Download Git from: https://git-scm.com/download/win
 2.	Run the installer with default settings:
+   
 o	Use Git Bash only.
+
 o	Line endings: Checkout Windows-style, commit Unix-style.
-3.	After installation, open Git Bash.
+
+4.	After installation, open Git Bash.
+   
  Part C: Git Configuration
 Once installed, configure user info (required for commit metadata):
+
 git config --global user.name "Your Name"
+
 git config --global user.email "you@example.com"
+
 Verify settings:
+
 git config --list
+
 ________________________________________
  Hands-on Activity
  Skill Practice 1: First Git Repository (Local)
+ 
 mkdir my-first-repo
+
 cd my-first-repo
+
 git init
+
 touch README.md
+
 git add README.md
+
 git commit -m "Initial commit"
 ________________________________________
 Skill Practice 2: Connect to GitHub (Remote Repo)
+
 1.	Go to GitHub → New Repository → Name: my-first-repo
+   
 2.	Don’t initialize with README
+   
 3.	Copy the repository URL (HTTPS preferred)
+   
 git remote add origin https://github.com/your-username/skill-1-repo.git
+
 git branch -M main
+
 git push -u origin main
 ________________________________________
 
@@ -72,8 +94,11 @@ ________________________________________
 ________________________________________
  Understanding Git
 Imagine Google Docs vs Microsoft Word:
+
 •	Git (like Word) works offline – you make changes locally.
+
 •	GitHub (like Google Docs) allows cloud storage and collaboration.
+
 •	You need to save (commit) and upload (push) to see changes in the cloud (GitHub).
 ________________________________________
 Final Checklist
