@@ -7,6 +7,8 @@ ________________________________________
 •	Git is a Distributed Version Control System (DVCS).
 •	Tracks code changes over time.
 •	Allows collaboration, branching, merging, reverting, etc.
+
+
 🔹 2. What is GitHub?
 
 •	Cloud-based platform that hosts Git repositories.
