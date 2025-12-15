@@ -5,13 +5,16 @@ ________________________________________
 🔹 1. What is Git?
 
 •	Git is a Distributed Version Control System (DVCS).
+
 •	Tracks code changes over time.
+
 •	Allows collaboration, branching, merging, reverting, etc.
 
 
 🔹 2. What is GitHub?
 
 •	Cloud-based platform that hosts Git repositories.
+
 •	Provides remote access, collaboration tools, issues, pull requests, and more.
 ________________________________________
 Skill Manual / Tutorial
@@ -29,6 +32,7 @@ o	Password
 7.	You now have a GitHub account!
  Tips:
 •	Choose a professional username (e.g., firstname-lastname).
+
 •	Use a recovery email.
 ________________________________________
  Part B: Git Installation (Windows)
@@ -73,17 +77,29 @@ Imagine Google Docs vs Microsoft Word:
 •	You need to save (commit) and upload (push) to see changes in the cloud (GitHub).
 ________________________________________
 Final Checklist
+
  GitHub Account Setup
+ 
 •	 GitHub account created
+
 •	 Email verified
+
 •	 Public profile set up
+
 Git Installed and Configured
+
 •	 Git installed successfully
+
 •	 Configured user.name and user.email
+
 •	 Verified with git config --list
+
 GitHub Repository
+
 •	 Created a repo on GitHub
+
 •	 Cloned or pushed from local to remote
+
 ________________________________________
 Submission (Lab Instructor Checklist)
 Student Name	GitHub URL	Screenshot of Local Git Bash
