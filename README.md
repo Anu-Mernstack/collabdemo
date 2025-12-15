@@ -3,10 +3,12 @@ Course Outcome (CO1):
 Understand and demonstrate GitHub account creation, Git installation, initial setup, and basic version control usage.
 ________________________________________
 🔹 1. What is Git?
+
 •	Git is a Distributed Version Control System (DVCS).
 •	Tracks code changes over time.
 •	Allows collaboration, branching, merging, reverting, etc.
 🔹 2. What is GitHub?
+
 •	Cloud-based platform that hosts Git repositories.
 •	Provides remote access, collaboration tools, issues, pull requests, and more.
 ________________________________________
