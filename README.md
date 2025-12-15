@@ -58,15 +58,7 @@ git remote add origin https://github.com/your-username/skill-1-repo.git
 git branch -M main
 git push -u origin main
 ________________________________________
- Mistakes & Troubleshooting Checklist
- Checkpoint	Common Mistake	Fix / Tip
-Git installed correctly?	Git not recognized	Reinstall Git and ensure it's in PATH
-Config done?	Commit made without name/email	Always set user.name and user.email globally
-GitHub email verified?	Push fails due to unverified email	Verify email in GitHub account settings
-Using correct repo URL?	Copying wrong SSH/HTTPS URL	Use HTTPS for beginners
-Pushing to main branch?	Error: ‘main’ does not exist	Use git branch -M main to rename default branch
-GitHub credentials asked repeatedly	Credential not cached	Use Git Credential Manager or cache credentials temporarily
-Trying to push without initializing repo	Remote repo is empty, but local repo not initialized	Always git init before adding remote
+
 <img width="629" height="328" alt="image" src="https://github.com/user-attachments/assets/2844edc4-16c0-4528-99b8-6c33fd6ebae4" />
 
 ________________________________________
