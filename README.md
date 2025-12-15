@@ -23,11 +23,11 @@ o	Password
 5.	Choose Free Plan (for students).
 6.	Set up profile preferences.
 7.	You now have a GitHub account!
-📌 Tips:
+ Tips:
 •	Choose a professional username (e.g., firstname-lastname).
 •	Use a recovery email.
 ________________________________________
-🚀 Part B: Git Installation (Windows/Linux/Mac)
+ Part B: Git Installation (Windows/Linux/Mac)
 Windows:
 1.	Download Git from: https://git-scm.com/download/win
 2.	Run the installer with default settings:
