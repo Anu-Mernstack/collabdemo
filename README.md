@@ -27,7 +27,7 @@ o	Password
 •	Choose a professional username (e.g., firstname-lastname).
 •	Use a recovery email.
 ________________________________________
- Part B: Git Installation (Windows/Linux/Mac)
+ Part B: Git Installation (Windows)
 Windows:
 1.	Download Git from: https://git-scm.com/download/win
 2.	Run the installer with default settings:
